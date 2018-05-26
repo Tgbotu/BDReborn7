@@ -8,7 +8,7 @@ An Helper Bot For BDReborn Based On BDMessenger
 
 * * *
 
-## Configure
+## ConfigureH
 
 * Put Your Bot `TOKEN` At Line `3`
 * Put Your `Telegram ID` At Line `5`
@@ -19,8 +19,8 @@ An Helper Bot For BDReborn Based On BDMessenger
 ```sh
 # Let's install the bot.
 cd $HOME
-git clone https://github.com/BeyondTeam/BDHelper.git
-cd BDHelper
+git clone 
+سی دیhttps://github.com/Tgbotu/BDReborn7.git
 chmod +x beyond.sh
 ./beyond.sh install
 ./beyond.sh 
@@ -49,11 +49,6 @@ More information [Beyond Global Chat](https://telegram.me/joinchat/AAAAAEIDQ8HT
 
 * * *
 
-# Developers!
-
-[SoLiD](https://github.com/solid021) ([Telegram](https://t.me/SoLiD))
-
-[ToOfan](https://github.com/To0fan) ([Telegram](https://t.me/ToOfan))
 
 ### Our Telegram channel:
 
